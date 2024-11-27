@@ -67,5 +67,5 @@ html_theme_options = {
 html_static_path = []
 
 extlinks = {
-    "doi": ("https://dx.doi.org/%s", "doi:"),
+    "doi": ("https://dx.doi.org/%s", "doi:%s"),
 }
