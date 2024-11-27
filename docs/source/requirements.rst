@@ -6,7 +6,7 @@ Software requirements
 
 * Operating systems: `Linux <https://www.kernel.org/>`_, `macOS <https://www.apple.com/macos/>`_, `Windows <https://www.microsoft.com/windows/>`_
 * `Git <https://git-scm.com/>`_
-* `GRASS GIS 7.8 <https://grass.osgeo.org/>`_
+* `GRASS GIS <https://grass.osgeo.org/>`_
 
   * `r.accumulate <https://grass.osgeo.org/grass-stable/manuals/addons/r.accumulate.html>`_ to be installed using `g.extension <https://grass.osgeo.org/grass-stable/manuals/g.extension.html>`_
 
