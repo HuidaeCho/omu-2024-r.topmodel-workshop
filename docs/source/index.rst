@@ -43,11 +43,11 @@ Author and affiliations
 .. image:: images/portrait.png
    :align: left
 
-Huidae Cho, University of North Georgia, United States
+Huidae Cho, New Mexico State University, United States
 
 Huidae /hidɛ/ is a water resources engineer.
 He received his master’s from Kyungpook National University and Ph.D. from Texas A&M University.
-He teaches Geospatial Science and Computing at the University of North Georgia.
+He teaches Water Resources Engineering at New Mexico State University.
 He is a member of the GRASS GIS Development Team and Project Steering Committee.
 
 Level
