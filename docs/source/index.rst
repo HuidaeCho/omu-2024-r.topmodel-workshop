@@ -61,7 +61,7 @@ Requirements for the attendees
 
 * Basic GIS knowledge is required including coordinate systems, geospatial data formats, etc.
 * Basic hydrologic knowledge is required including flow directions, flow accumulation, watershed delineation, etc.
-* GRASS GIS 7.8 is required on Linux, macOS, or Windows.
+* GRASS GIS 8.4 is required on Linux, macOS, or Windows.
 * Digital elevation data (DEM), daily rainfall, evapotranspiration, and streamflow data will be provided.
 
 References
