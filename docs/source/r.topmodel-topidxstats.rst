@@ -1,7 +1,7 @@
 r.topmodel topidxstats
 ======================
 
-`r.topmodel <https://grass.osgeo.org/grass78/manuals/r.topmodel.html>`_ provides a preprocessing flag ``-p`` to generate a topidxstats file from a topidx raster created by `r.topidx <https://grass.osgeo.org/grass78/manuals/r.topidx.html>`_.
+`r.topmodel <https://grass.osgeo.org/grass-stable/manuals/r.topmodel.html>`_ provides a preprocessing flag ``-p`` to generate a topidxstats file from a topidx raster created by `r.topidx <https://grass.osgeo.org/grass-stable/manuals/r.topidx.html>`_.
 The following command calculates statistics about topographic indices in the topidx raster by splitting the entire range into 30 classes:
 
 .. code-block:: bash

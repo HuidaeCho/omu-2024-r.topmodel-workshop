@@ -8,7 +8,7 @@ Software requirements
 * `Git <https://git-scm.com/>`_
 * `GRASS GIS 7.8 <https://grass.osgeo.org/>`_
 
-  * `r.accumulate <https://grass.osgeo.org/grass78/manuals/addons/r.accumulate.html>`_ to be installed using `g.extension <https://grass.osgeo.org/grass78/manuals/g.extension.html>`_
+  * `r.accumulate <https://grass.osgeo.org/grass-stable/manuals/addons/r.accumulate.html>`_ to be installed using `g.extension <https://grass.osgeo.org/grass-stable/manuals/g.extension.html>`_
 
 * `Python 3 <https://www.python.org/>`_ installed with GRASS GIS
 
@@ -44,7 +44,7 @@ Data requirements
 r.topmodel data
 ^^^^^^^^^^^^^^^
 
-`r.topmodel <https://grass.osgeo.org/grass78/manuals/r.topmodel.html>`_ requires the following inputs:
+`r.topmodel <https://grass.osgeo.org/grass-stable/manuals/r.topmodel.html>`_ requires the following inputs:
 
 * rainfall time series
 * evapotranspiration time series
@@ -53,7 +53,7 @@ r.topmodel data
 r.topidx data
 ^^^^^^^^^^^^^^^
 
-`r.topidx <https://grass.osgeo.org/grass78/manuals/r.topidx.html>`_ requires an elevation raster map.
+`r.topidx <https://grass.osgeo.org/grass-stable/manuals/r.topidx.html>`_ requires an elevation raster map.
 
 Data sources
 ^^^^^^^^^^^^

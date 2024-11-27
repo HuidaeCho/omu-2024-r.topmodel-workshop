@@ -10,7 +10,7 @@ Its version 5.0 was released under the GNU General Public License (GPL) as an op
 Latest version
 ^^^^^^^^^^^^^^
 
-Currently, the latest stable version 7.8.5 is available from `here <https://grass.osgeo.org/download/>`_ and the source code is `hosted on GitHub <https://github.com/OSGeo/grass>`_.
+Currently, the latest stable version 8.4 is available from `here <https://grass.osgeo.org/download/>`_ and the source code is `hosted on GitHub <https://github.com/OSGeo/grass>`_.
 
 TOPMODEL
 --------
@@ -35,7 +35,7 @@ Total flow consists of direct runoff from saturated areas, return flow from satu
 r.topmodel and r.topidx
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Cho (2000) rewrote TMOD9502.FOR and GRIDATB.FOR, the FORTRAN 77 version of TOPMODEL and the topographic index calculator by Beven, in C and integrated them with GRASS GIS as the `r.topmodel <https://grass.osgeo.org/grass78/manuals/r.topmodel.html>`_ and `r.topidx <https://grass.osgeo.org/grass78/manuals/r.topidx.html>`_ modules, respectively.
+Cho (2000) rewrote TMOD9502.FOR and GRIDATB.FOR, the FORTRAN 77 version of TOPMODEL and the topographic index calculator by Beven, in C and integrated them with GRASS GIS as the `r.topmodel <https://grass.osgeo.org/grass-stable/manuals/r.topmodel.html>`_ and `r.topidx <https://grass.osgeo.org/grass-stable/manuals/r.topidx.html>`_ modules, respectively.
 Both modules are included in the standard GRASS GIS installation.
 
 We will use these GRASS modules for today's workshop.

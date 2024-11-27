@@ -248,7 +248,7 @@ Unlike some other flow direction tools, r.watershed does not require sinks to be
 Delineating the watershed
 -------------------------
 
-Install `the r.accumulate addon <https://grass.osgeo.org/grass78/manuals/addons/r.accumulate.html>`_ and delineate the watershed.
+Install `the r.accumulate addon <https://grass.osgeo.org/grass-stable/manuals/addons/r.accumulate.html>`_ and delineate the watershed.
 The same command will calculate the flow accumulation and longest flow path as well.
 
 .. code-block:: bash

@@ -1,7 +1,7 @@
 r.topmodel parameters
 =====================
 
-`r.topmodel <https://grass.osgeo.org/grass78/manuals/r.topmodel.html>`_ requires the following three input files:
+`r.topmodel <https://grass.osgeo.org/grass-stable/manuals/r.topmodel.html>`_ requires the following three input files:
 
 * parameters: TOPMODEL parameters passed to ``r.topmodel parameters=``
 * topidxstats: topographic index statistics passed to ``r.topmodel topidxstats=``
